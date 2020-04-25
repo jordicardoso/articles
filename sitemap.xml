@@ -3,11 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jordicardoso.github.io/blog/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jordicardoso.github.io/</loc>
+    <loc>https://jordicardoso.github.io/blog/blog/about/</loc>
   </url>
   
   <url>
@@ -15,11 +11,15 @@
   </url>
   
   <url>
-    <loc>https://jordicardoso.github.io/categories/</loc>
+    <loc>https://jordicardoso.github.io/blog/blog/</loc>
   </url>
   
   <url>
-    <loc>https://jordicardoso.github.io/tags/</loc>
+    <loc>https://jordicardoso.github.io/blog/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jordicardoso.github.io/blog/tags/</loc>
   </url>
   
 </urlset>
